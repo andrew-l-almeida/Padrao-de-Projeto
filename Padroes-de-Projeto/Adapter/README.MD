@@ -12,11 +12,11 @@ Muitas vezes uma classe que poderia ser reaproveitada não é reutilizada justam
 
 # Aplicabildade
 
-O padrão Adapter pode ser utilizado quando:
+* O padrão Adapter pode ser utilizado quando:
 
-    O desenvolvedor deseja utilizar uma classe existente, porém sua interface não corresponde à interface que se precisa;
+* O desenvolvedor deseja utilizar uma classe existente, porém sua interface não corresponde à interface que se precisa;
 
-    O desenvolvedor quiser criar classes reaproveitavel, que coopere com classes não-relacionadas, ou seja, classes que não possuem necessariamente interfaces compatíveis;
+* O desenvolvedor quiser criar classes reaproveitavel, que coopere com classes não-relacionadas, ou seja, classes que não possuem necessariamente interfaces compatíveis;
 
 ## Estrutura
 ![alt text](http://videos.web-03.net/artigos/Higor_Medeiros/PadraoAdapter_Java/PadraoAdapter_Java1.jpg)
