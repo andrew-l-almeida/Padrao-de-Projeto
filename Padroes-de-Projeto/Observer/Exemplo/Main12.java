@@ -1,3 +1,5 @@
+package Observer.Exemplo;
+
 class Main12 {
     public static void main(String[] args) {
        Subject subject = new Subject();

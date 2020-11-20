@@ -1,3 +1,5 @@
+package Strategy.Exemplo;
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 import java.util.List;

@@ -1,4 +1,6 @@
-public class Treino_Prejogo extends Treinamento{
+package MethodPattern.Treinamento;
+
+public class Treino_Prejogo extends Treinamento {
     Treino_Prejogo(){
 
     }

@@ -1,3 +1,5 @@
+package Memento.Exemplos;
+
 public class Originator {
     private String state;
  

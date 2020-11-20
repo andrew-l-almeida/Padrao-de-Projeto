@@ -1,4 +1,6 @@
-public class HexaObserver extends Observer{
+package Observer.Exemplo;
+
+public class HexaObserver extends Observer {
 
     public HexaObserver(Subject subject){
        this.subject = subject;

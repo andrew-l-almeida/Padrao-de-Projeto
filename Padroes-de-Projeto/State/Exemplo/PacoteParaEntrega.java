@@ -1,3 +1,5 @@
+package State.Exemplo;
+
 public class PacoteParaEntrega implements EstadoPacote {
     public void previousState(Pacote pacote) {
       pacote.setState(new PacoteSeparadoEntrega());

@@ -1,3 +1,5 @@
+package Strategy.Exemplo;
+
 import java.math.BigDecimal;
 
 public class DescontoTransferencia implements Desconto {

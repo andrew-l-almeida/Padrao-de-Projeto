@@ -1,3 +1,5 @@
+package MethodPattern.Treinamento;
+
 import java.util.Scanner;
 
 

@@ -1,3 +1,5 @@
+package Strategy.Exemplo;
+
 import java.math.BigDecimal;
 
 public interface Desconto {

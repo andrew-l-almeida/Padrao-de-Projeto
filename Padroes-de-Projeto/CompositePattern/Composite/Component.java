@@ -1,3 +1,5 @@
+package CompositePattern.Composite;
+
 public abstract class Component 
 {
     private String name;

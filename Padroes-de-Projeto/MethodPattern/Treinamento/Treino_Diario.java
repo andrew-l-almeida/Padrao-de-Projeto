@@ -1,4 +1,6 @@
-public class Treino_Diario extends Treinamento{
+package MethodPattern.Treinamento;
+
+public class Treino_Diario extends Treinamento {
     Treino_Diario(){
 
     }

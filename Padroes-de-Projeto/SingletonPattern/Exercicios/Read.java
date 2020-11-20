@@ -1,3 +1,4 @@
+package SingletonPattern.Exercicios;
 
 import java.util.Scanner;
 

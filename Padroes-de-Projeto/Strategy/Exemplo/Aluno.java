@@ -1,3 +1,5 @@
+package Strategy.Exemplo;
+
 public class Aluno {
     private String nome;
     private boolean transferencia;

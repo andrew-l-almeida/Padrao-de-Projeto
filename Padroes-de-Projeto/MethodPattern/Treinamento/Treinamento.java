@@ -1,3 +1,5 @@
+package MethodPattern.Treinamento;
+
 public abstract class Treinamento {
     Treinamento(){
 

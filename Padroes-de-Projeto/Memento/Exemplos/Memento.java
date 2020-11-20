@@ -1,3 +1,5 @@
+package Memento.Exemplos;
+
 public class Memento {
     private String state;
  

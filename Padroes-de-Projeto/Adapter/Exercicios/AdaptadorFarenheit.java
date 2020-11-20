@@ -1,3 +1,5 @@
+package Adapter.Exercicios;
+
 public class AdaptadorFarenheit extends MedidorFarenheit implements MedidorTemperatura {
 	public float temperaturaCelsius() {
     float temp = super.temperaturaFarenheit();

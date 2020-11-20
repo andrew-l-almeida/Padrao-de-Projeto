@@ -1,3 +1,5 @@
+package CompositePattern.Composite;
+
 public class FileItem extends Component 
 {
     private float size;

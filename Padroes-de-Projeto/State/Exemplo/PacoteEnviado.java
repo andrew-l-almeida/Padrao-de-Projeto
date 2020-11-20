@@ -1,3 +1,5 @@
+package State.Exemplo;
+
 public class PacoteEnviado implements EstadoPacote {
     public void previousState(Pacote pacote) {
       System.out.println(new PacotePronto());

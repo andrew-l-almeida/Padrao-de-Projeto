@@ -1,4 +1,6 @@
-public class BinaryObserver extends Observer{
+package Observer.Exemplo;
+
+public class BinaryObserver extends Observer {
 
     public BinaryObserver(Subject subject){
        this.subject = subject;

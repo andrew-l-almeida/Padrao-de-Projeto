@@ -1,4 +1,6 @@
-public class Inicio_de_Temporada extends Treinamento{
+package MethodPattern.Treinamento;
+
+public class Inicio_de_Temporada extends Treinamento {
     Inicio_de_Temporada(){
 
     }

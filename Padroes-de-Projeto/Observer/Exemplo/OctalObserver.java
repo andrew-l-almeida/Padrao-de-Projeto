@@ -1,4 +1,6 @@
-public class OctalObserver extends Observer{
+package Observer.Exemplo;
+
+public class OctalObserver extends Observer {
 
     public OctalObserver(Subject subject){
        this.subject = subject;
